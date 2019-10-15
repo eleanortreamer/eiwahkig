@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eighaesoe.senlay.top/sitemap.xml
